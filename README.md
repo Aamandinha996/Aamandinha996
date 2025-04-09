@@ -1,4 +1,4 @@
-💻 Sobre mim
+
 Olá! Me chamo Amanda Bomfin, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. 
 Sou apaixonada por tecnologia e estou sempre buscando aprender mais e evoluir como desenvolvedora.
 Atualmente, meus principais interesses incluem:
